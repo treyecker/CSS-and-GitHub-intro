@@ -168,4 +168,4 @@ Then go back to the top of this repo, where all files and folders are listed. Go
 
 Here’s how to go back to the top of this repo. Click the link for the repo’s name. The link is at the top of this page.
 
-**Note:** It says *master* because it’s the website, GitHub.com. Your branch is only on your desktop right now.
+**Note:** It says *<del>master</del> main* because it’s the website, GitHub.com. Your branch is only on your desktop right now.
