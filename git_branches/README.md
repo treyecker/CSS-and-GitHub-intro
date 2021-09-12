@@ -16,7 +16,7 @@ The Branch button has the **branch icon**:
 
 ![GitHub branch icon](../images/git-branch.png)
 
-To the right of the Branch icon is the name of the current branch. Right now, that is *<del>master</del> main.* The first branch of a repo is always named *<del>master</del> main* by default. (The racist origin of this term is noted. [GitHub will change this in the future.](https://www.bbc.com/news/technology-53050955))
+To the right of the Branch icon is the name of the current branch. Right now, that is *<del>master</del> main.* The first branch of a repo is always named *<del>master</del> main* by default. (The racist origin of the term *master* [inspired GitHub to change the name of the default branch to *main.*](https://www.bbc.com/news/technology-53050955))
 
 When you click the button that says *<del>master</del> main,* you’ll see a list of all the branches in this repo. Even now, *<del>master</del> main* has a checkmark to show you it is the current branch &mdash; the one you are in now. You have only one branch so far.
 
